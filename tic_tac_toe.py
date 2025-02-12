@@ -64,7 +64,6 @@ def print_board(coordinates):
             print(column, end=' ')
     print('')
 
-# def check_if_winner_exists():
 
 coordinates = []
 board_size = initialize_board()
